@@ -1,6 +1,5 @@
 {
   "name": "my-react-app",
-  "homepage": "git@github.com:Kavindu-001/sproject1.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +8,6 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
-    
   },
   "dependencies": {
     "react": "^18.3.1",
